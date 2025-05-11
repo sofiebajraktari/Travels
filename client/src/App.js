@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import AppLayout from "./components/AppLayout";
 import Dashboard from "./pages/Dashboard";
-import TripsPage from "./pages/TripsPage";
+import TripsPage from "./pages/TripsPages";
 import ItinerariesPage from "./pages/ItinerariesPage";
 import DocumentsPage from "./pages/DocumentsPage";
 import BookmarksPage from "./pages/BookmarksPage";
